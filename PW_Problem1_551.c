@@ -53,7 +53,7 @@ int main()
 	return 0;
 }
 
-//Push elements into the stack
+
 void push(int i, int j)
 {
     	struct row *n,*h,*t;

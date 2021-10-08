@@ -10,6 +10,8 @@ struct row
 }*head1 = NULL, *head2 = NULL;
 
 void push(int, int);
+
+
 void popstore(struct row*);
 int checkpop(int, int);
 struct row* pop();
